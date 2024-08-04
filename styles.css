@@ -76,8 +76,8 @@ body {
   0% {
     transform: rotateX(0deg) rotateY(0deg) rotateZ(720deg) scale(1);
   }
-  80% {
-    transform: rotateX(180deg) rotateY(180deg) rotateZ(360deg) scale(0.8);
+  83% {
+    transform: rotateX(300deg) rotateY(300deg) rotateZ(60deg) scale(0.8);
   }
   100% {
     transform: rotateX(360deg) rotateY(360deg) rotateZ(0deg) scale(1);
